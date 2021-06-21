@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jyotirathore01
+- 👋 Hi, I’m Jyoti
 - 👀 I’m interested in java selenium, manual testing
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on 
